@@ -297,6 +297,7 @@ Trek een zwarte doos af
 Een zwarte doos aftrekken
 Een zwarte doos afleiden
 Een zwart vak aftrekken
+een vierkant zwart kleuren
 ```
 
 
